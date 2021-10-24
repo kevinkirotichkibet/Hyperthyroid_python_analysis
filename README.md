@@ -14,10 +14,10 @@ the following are steps taken to do the analysis
 6. Evaluation
 
 ## Tools Used
-** Python(Pandas Library, Numpy Library, SeabornLibrary, SciPy Library,Sci-kit Learn)
+** Python(Pandas Library, Numpy Library, SeabornLibrary, SciPy Library,Sci-kit Learn) **
 
-** Google Colab
+** Google Colab **
 
-** Jupyter Notebook
+** Jupyter Notebook **
 
 Link to dataset http://bit.ly/hypothyroid_data
